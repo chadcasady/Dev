@@ -20,6 +20,3 @@ foreach ($account in $tempAccList ) {
     }
 
 }
-
-
-test
